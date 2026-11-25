@@ -9,7 +9,7 @@ Update each row immediately after completing a step's Verification Checklist and
 | Step | Sheet Milestone | Title | Owner | Target Date | Status | Commit / Evidence |
 |---|---|---|---|---|---|---|
 | `STEP-001` | M1 (Due 18 Nov — Catch-up) | Team Charter, Industry Problem & Scope Lock | M1 Md Assaduzzaman + All | Nov 25–26 | `DONE` | `01_management/team_charter.md` (2026-11-25) |
-| `STEP-002` | M1 (Due 18 Nov — Catch-up) | Repository Skeleton, Registries & Environment Setup | M5 Ishrat Jahan + All | Nov 25–26 | `PENDING` | — |
+| `STEP-002` | M1 (Due 18 Nov — Catch-up) | Repository Skeleton, Registries & Environment Setup | M5 Ishrat Jahan + All | Nov 25–26 | `DONE` | Repo skeleton, registries, `requirements.txt`, `src/seed.py` (2026-11-25) |
 | `STEP-003` | M2 (Due 22 Nov — Catch-up) | Kaggle `DS0001` Verification, License & Master Index CSV | M1 Md Assaduzzaman | Nov 26 | `PENDING` | — |
 | `STEP-004` | M3 (Due **Fri, 27 Nov**) | Visual EDA: Distributions, Image Stats & Sample Grids | M2 Khadijatul Kobra Keya | Nov 26–27 | `PENDING` | — |
 | `STEP-005` | M3 (Due **Fri, 27 Nov**) | Leak-Free Stratified Train/Val/Test Split (70/15/15) | M1 + M2 | Nov 27 | `PENDING` | — |
@@ -33,7 +33,7 @@ Update each row immediately after completing a step's Verification Checklist and
 
 ## Gate Summary
 
-- [ ] **GATE 1 (After `STEP-002`):** Team charter ratified, repo skeleton pushed, AI usage log active.
+- [x] **GATE 1 (After `STEP-002`):** Team charter ratified, repo skeleton pushed, AI usage log active. *(PASS — 2026-11-25)*
 - [ ] **GATE 2 (After `STEP-006`):** `DS0001` verified, visual EDA complete, zero-leakage split locked, training-only augmentation verified.
 - [ ] **GATE 3 (After `STEP-010`):** 4 distinct models across 3 families trained & logged reproducibly.
 - [ ] **GATE 4 (After `STEP-015`):** 3 optimizations + ablation + test metrics + Grad-CAM + failure cases finalized; winning model selected.
