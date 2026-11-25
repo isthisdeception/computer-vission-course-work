@@ -1,2 +1,8 @@
 fig_id,filename,step_id,report_section,caption,source_script
 FIG00,06_evaluation/figures/eda/ds0001_annotation_examples.png,STEP-003,Section 6,DS0001 (ArtiFact Face Subset) verified annotated sample preview (4 Real vs. 4 AI generators),04_notebooks/01_ds0001_audit_and_index.ipynb
+FIG01,06_evaluation/figures/eda/fig01_class_generator_distribution.png,STEP-004,Section 7,DS0001 leak-free 70/15/15 split balance and 13-generator distribution,04_notebooks/02_visual_eda.ipynb
+FIG02,06_evaluation/figures/eda/fig02_sample_grid_real_vs_fake.png,STEP-004,Section 7,4x4 visual sample gallery comparing Real faces against 12 synthetic generators,04_notebooks/02_visual_eda.ipynb
+FIG03,06_evaluation/figures/eda/fig03_environmental_variations.png,STEP-004,Section 7,"Data-driven examples of lighting, sharpness/blur, contrast, and color-cast variations",04_notebooks/02_visual_eda.ipynb
+FIG04,06_evaluation/figures/eda/fig04_pixel_brightness_blur_stats.png,STEP-004,Section 7,"Brightness, contrast, Laplacian sharpness, and RGB channel statistics (n=4,000)",04_notebooks/02_visual_eda.ipynb
+FIG05,06_evaluation/figures/eda/fig05_average_fft_spectrum.png,STEP-004,Section 7,Mean 2D FFT log-magnitude spectra and 1D azimuthal radial power profiles,04_notebooks/02_visual_eda.ipynb
+FIG06,06_evaluation/figures/eda/fig06_augmentation_preview.png,STEP-006,Section 8,Preprocessing and strictly training-only robustness augmentation preview,04_notebooks/02_visual_eda.ipynb

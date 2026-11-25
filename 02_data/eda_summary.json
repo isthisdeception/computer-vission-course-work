@@ -1,0 +1,49 @@
+{
+  "dataset_id": "DS0001",
+  "built_utc": "2026-11-25T18:44:26.747590+00:00",
+  "total_images": 50000,
+  "stratified_pixel_sample_n": 4000,
+  "seed": 42,
+  "real_stats": {
+    "brightness_mean": 0.4583,
+    "brightness_std": 0.1092,
+    "contrast_mean": 0.225,
+    "contrast_std": 0.0479,
+    "sharpness_lap_var_median": 0.008465,
+    "sharpness_lap_var_mean": 0.010251,
+    "rgb_mean": [
+      0.5463,
+      0.43,
+      0.373
+    ],
+    "rgb_std": [
+      0.1204,
+      0.1095,
+      0.1124
+    ]
+  },
+  "fake_stats": {
+    "brightness_mean": 0.4487,
+    "brightness_std": 0.1102,
+    "contrast_mean": 0.212,
+    "contrast_std": 0.0494,
+    "sharpness_lap_var_median": 0.004592,
+    "sharpness_lap_var_mean": 0.007325,
+    "rgb_mean": [
+      0.5258,
+      0.4238,
+      0.3748
+    ],
+    "rgb_std": [
+      0.1235,
+      0.1096,
+      0.1134
+    ]
+  },
+  "high_freq_radial_tail_mean_r70_99": {
+    "real": 1.4877,
+    "all_fake": 1.266,
+    "stylegan2": 1.391,
+    "stable_diffusion": 1.7784
+  }
+}

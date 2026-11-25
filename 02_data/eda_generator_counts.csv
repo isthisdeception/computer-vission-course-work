@@ -1,0 +1,15 @@
+label_name,generator,test,train,val,total
+real,none,3750,17500,3750,25000
+fake,stylegan2,288,1347,289,1924
+fake,cips,288,1346,289,1923
+fake,face_synthetics,289,1346,288,1923
+fake,gansformer,288,1346,289,1923
+fake,lama,289,1346,288,1923
+fake,mat,289,1346,288,1923
+fake,projected_gan,288,1346,289,1923
+fake,sfhq,289,1346,288,1923
+fake,stable_diffusion,289,1346,288,1923
+fake,stargan,288,1346,289,1923
+fake,stylegan1,288,1346,289,1923
+fake,stylegan3,288,1347,288,1923
+fake,taming_transformer,289,1346,288,1923

@@ -11,9 +11,9 @@ Update each row immediately after completing a step's Verification Checklist and
 | `STEP-001` | M1 (Due 18 Nov — Catch-up) | Team Charter, Industry Problem & Scope Lock | M1 Md Assaduzzaman + All | Nov 25–26 | `DONE` | `01_management/team_charter.md` (2026-11-25) |
 | `STEP-002` | M1 (Due 18 Nov — Catch-up) | Repository Skeleton, Registries & Environment Setup | M5 Ishrat Jahan + All | Nov 25–26 | `DONE` | Repo skeleton, registries, `requirements.txt`, `src/seed.py` (2026-11-25) |
 | `STEP-003` | M2 (Due 22 Nov — Catch-up) | Kaggle `DS0001` Verification, License & Master Index CSV | M1 Md Assaduzzaman | Nov 26 | `DONE` | `ds0001_index.csv` (50k, 0 corrupt) pushed from Kaggle (2026-11-25) |
-| `STEP-004` | M3 (Due **Fri, 27 Nov**) | Visual EDA: Distributions, Image Stats & Sample Grids | M2 Khadijatul Kobra Keya | Nov 26–27 | `IN_PROGRESS` | `04_notebooks/02_visual_eda.ipynb` pushed; awaiting Kaggle Run All |
+| `STEP-004` | M3 (Due **Fri, 27 Nov**) | Visual EDA: Distributions, Image Stats & Sample Grids | M2 Khadijatul Kobra Keya | Nov 26–27 | `DONE` | `fig01`–`fig05`, `eda_summary.json`, `eda_report.md` pushed from Kaggle (2026-11-25) |
 | `STEP-005` | M3 (Due **Fri, 27 Nov**) | Leak-Free Stratified Train/Val/Test Split (70/15/15) | M1 + M2 | Nov 27 | `DONE` | `ds0001_split_v1.csv` & `ds0001_unseen_gen_split.csv` verified 0-leakage (2026-11-26) |
-| `STEP-006` | M3 (Due **Fri, 27 Nov**) | Preprocessing & Training-Only Augmentation Pipeline | M2 Khadijatul Kobra Keya | Nov 27 | `IN_PROGRESS` | `transforms.py`, `dataset.py`, pytest PASS; `fig06` generated in Kaggle EDA run |
+| `STEP-006` | M3 (Due **Fri, 27 Nov**) | Preprocessing & Training-Only Augmentation Pipeline | M2 Khadijatul Kobra Keya | Nov 27 | `DONE` | `transforms.py`, `dataset.py`, pytest PASS + `fig06` (2026-11-25) |
 | `STEP-007` | M4 (Due **Thu, 03 Dec**) | Model 1 (Traditional CV Baseline): FFT/DCT + LBP + SVM/RF | M3 Mymuna Ibnat Priota | Nov 29 | `PENDING` | — |
 | `STEP-008` | M4 (Due **Thu, 03 Dec**) | Model 2 (CNN): ResNet-50 Frozen Baseline vs. Fine-Tuned | M3 Mymuna Ibnat Priota | Nov 30 | `PENDING` | — |
 | `STEP-009` | M4 (Due **Thu, 03 Dec**) | Model 3 (Lightweight CNN): EfficientNet-B0 | M3 Mymuna Ibnat Priota | Dec 01 | `PENDING` | — |
@@ -34,7 +34,7 @@ Update each row immediately after completing a step's Verification Checklist and
 ## Gate Summary
 
 - [x] **GATE 1 (After `STEP-002`):** Team charter ratified, repo skeleton pushed, AI usage log active. *(PASS — 2026-11-25)*
-- [ ] **GATE 2 (After `STEP-006`):** `DS0001` verified, visual EDA complete, zero-leakage split locked, training-only augmentation verified.
+- [x] **GATE 2 (After `STEP-006`):** `DS0001` verified, visual EDA complete, zero-leakage split locked, training-only augmentation verified. *(PASS — 2026-11-25)*
 - [ ] **GATE 3 (After `STEP-010`):** 4 distinct models across 3 families trained & logged reproducibly.
 - [ ] **GATE 4 (After `STEP-015`):** 3 optimizations + ablation + test metrics + Grad-CAM + failure cases finalized; winning model selected.
 - [ ] **GATE 5 (After `STEP-018`):** Working Streamlit app verified on real, AI-generated, uncropped, and invalid inputs.
