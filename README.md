@@ -9,8 +9,9 @@
 
 | Field | Value |
 |---|---|
+| **Group** | **GROUP 08** |
 | **Project Title** | AI-Generated Face Detection for Digital Identity Verification (e-KYC) and Fraud Prevention |
-| **Industry Domain** | Cybersecurity / Finance & Banking (e-KYC & Trust/Safety) |
+| **Industry Domain** | Cybersecurity (Finance & Banking e-KYC Fraud Prevention) |
 | **Primary Dataset (Single Dataset)** | `DS0001` — ArtiFact Face Subset (`kaggle:isthisdeception/ds0001-artifact-face-subset`) |
 | **Dataset Summary** | 50,000 face images — 25,000 Real / 25,000 Fake across 13 AI generators (GANs, Diffusion, Transformers, Inpainting, 3D Synthetics), MIT License |
 | **Team Size** | Exactly 5 Students |
@@ -52,15 +53,29 @@
 
 ---
 
-## Team Members & Core Responsibilities
+## Team Members & Core Responsibilities (`GROUP 08`)
 
-| Role | Student Name | Full Student ID | Primary Responsibilities | Target Share |
+| Role | Student Full Name | Full Student ID | Primary Responsibilities | Target Share |
 |---|---|---|---|---|
-| **Member 1** | *TBD (STEP-001)* | *TBD* | Industry problem, `DS0001` dataset & license review, leak-free splits | 20% |
-| **Member 2** | *TBD (STEP-001)* | *TBD* | Visual EDA, preprocessing & training-only augmentation | 20% |
-| **Member 3** | *TBD (STEP-001)* | *TBD* | 4 vision model architectures across 3 families & baseline experiments | 20% |
-| **Member 4** | *TBD (STEP-001)* | *TBD* | 3 optimizations, ablation study, task-specific evaluation & XAI visualizations | 20% |
-| **Member 5** | *TBD (STEP-001)* | *TBD* | Streamlit vision application, face-crop integration, testing & deployment | 20% |
+| **Member 1** | Md Assaduzzaman | `0242310005101233` | Industry problem, `DS0001` dataset & license review, leak-free splits | 20% |
+| **Member 2** | Khadijatul Kobra Keya | `0242310005101223` | Visual EDA, preprocessing & training-only augmentation | 20% |
+| **Member 3** | Mymuna Ibnat Priota | `0242310005101804` | 4 vision model architectures across 3 families & baseline experiments | 20% |
+| **Member 4** | Odito Al Nafiu | `0242310005101253` | 3 optimizations, ablation study, task-specific evaluation & XAI visualizations | 20% |
+| **Member 5** | Ishrat Jahan | `0242310005101164` | Streamlit vision application, face-crop integration, testing & deployment | 20% |
+
+---
+
+## Course Progress-Tracking Sheet Milestone Map
+
+| # | Official Milestone | Sheet Due Date | Blueprint Steps | Evidence URL Target (GitHub) |
+|---|---|---|---|---|
+| 1 | Industry CV problem & scope | Wed, 18 Nov *(Catch-up)* | `STEP-001` – `STEP-002` | `01_management/team_charter.md` |
+| 2 | Image/video dataset & labels | Sun, 22 Nov *(Catch-up)* | `STEP-003` | `02_data/dataset_card.md` + `02_data/ds0001_index.csv` |
+| 3 | Visual EDA & preprocessing | **Fri, 27 Nov** | `STEP-004` – `STEP-006` | `04_notebooks/02_visual_eda.ipynb` + `03_preprocessing/transforms.py` |
+| 4 | Vision baselines & models | **Thu, 03 Dec** | `STEP-007` – `STEP-010` | `06_evaluation/tables/table01_baseline_4model_comparison.csv` + notebooks |
+| 5 | Optimization & evaluation | **Mon, 07 Dec** | `STEP-011` – `STEP-015` | `06_evaluation/tables/table04_final_model_comparison.csv` + XAI figures |
+| 6 | Working vision application | **Fri, 11 Dec** | `STEP-016` – `STEP-017` | `07_app/app.py` + `07_app/README.md` |
+| 7 | Final testing & readiness | **Sun, 13 Dec** | `STEP-018` – `STEP-020` | `07_app/uat_test_results.md` + `06_evaluation/figures/app/` |
 
 ---
 

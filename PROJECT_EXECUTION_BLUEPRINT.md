@@ -19,7 +19,7 @@
 | **Document Title** | `PROJECT_EXECUTION_BLUEPRINT.md` |
 | **Course Deliverable** | Computer Vision Project-Based Assignment (**5 Marks**) & Presentation (**8 Marks**) — **Total: 13 Marks** |
 | **Semester & Deadline** | Fall 2026 — **Final PDF Report Due: Monday, 14 December 2026** |
-| **Team Size** | **Exactly 5 Students** (Member 1 – Member 5) |
+| **Group & Team Size** | **GROUP 08** — Exactly 5 Students (M1: Md Assaduzzaman `0242310005101233`, M2: Khadijatul Kobra Keya `0242310005101223`, M3: Mymuna Ibnat Priota `0242310005101804`, M4: Odito Al Nafiu `0242310005101253`, M5: Ishrat Jahan `0242310005101164`) |
 | **Industry Domain** | **Cybersecurity / Finance & Banking** (e-KYC Synthetic Identity & AI-Generated Face Fraud Prevention) |
 | **Dataset (Single Dataset)** | `DS0001` — ArtiFact Face Subset (`kaggle:isthisdeception/ds0001-artifact-face-subset`, 50,000 images, 25k Real / 25k Fake, 13 generators, MIT License) |
 | **Total Steps** | **20 sequential steps** (`STEP-001` … `STEP-020`) across **7 Parts** |
