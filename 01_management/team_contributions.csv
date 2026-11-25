@@ -1,0 +1,6 @@
+member_no,name,student_id,responsibilities,planned_pct,actual_pct,verified_deliverables
+1,Md Assaduzzaman,0242310005101233,"Industry problem, DS0001 dataset and license review, leak-free splits",20,0,"STEP-001 team charter (completed 2026-11-25)"
+2,Khadijatul Kobra Keya,0242310005101223,"Visual EDA, image preprocessing and training-only augmentation",20,0,"Pending STEP-004 to STEP-006"
+3,Mymuna Ibnat Priota,0242310005101804,"Vision model architectures (4 models across 3 families) and baseline experiments",20,0,"Pending STEP-007 to STEP-010"
+4,Odito Al Nafiu,0242310005101253,"Optimization (3 strategies), controlled ablation, task-specific evaluation and XAI visualizations",20,0,"Pending STEP-011 to STEP-015"
+5,Ishrat Jahan,0242310005101164,"Working Streamlit vision application, face-crop integration, testing and deployment",20,0,"Pending STEP-016 to STEP-018"

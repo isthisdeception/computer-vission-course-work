@@ -8,7 +8,7 @@ Update each row immediately after completing a step's Verification Checklist and
 
 | Step | Sheet Milestone | Title | Owner | Target Date | Status | Commit / Evidence |
 |---|---|---|---|---|---|---|
-| `STEP-001` | M1 (Due 18 Nov — Catch-up) | Team Charter, Industry Problem & Scope Lock | M1 Md Assaduzzaman + All | Nov 25–26 | `PENDING` | — |
+| `STEP-001` | M1 (Due 18 Nov — Catch-up) | Team Charter, Industry Problem & Scope Lock | M1 Md Assaduzzaman + All | Nov 25–26 | `DONE` | `01_management/team_charter.md` (2026-11-25) |
 | `STEP-002` | M1 (Due 18 Nov — Catch-up) | Repository Skeleton, Registries & Environment Setup | M5 Ishrat Jahan + All | Nov 25–26 | `PENDING` | — |
 | `STEP-003` | M2 (Due 22 Nov — Catch-up) | Kaggle `DS0001` Verification, License & Master Index CSV | M1 Md Assaduzzaman | Nov 26 | `PENDING` | — |
 | `STEP-004` | M3 (Due **Fri, 27 Nov**) | Visual EDA: Distributions, Image Stats & Sample Grids | M2 Khadijatul Kobra Keya | Nov 26–27 | `PENDING` | — |
