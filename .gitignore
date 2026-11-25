@@ -1,0 +1,57 @@
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+
+# Jupyter & Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Secrets & Environment Files
+.env
+.env.*
+!.env.example
+kaggle.json
+*.pem
+*.key
+
+# Raw & Processed Datasets (Keep on Kaggle, NEVER commit to GitHub)
+data/raw/
+data/processed/
+02_data/raw/
+02_data/processed/
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+# Large Model Checkpoints (Store in Kaggle / GitHub Releases; keep only metadata/configs in Git)
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.onnx
+*.pkl
+*.joblib
+!05_models/exported/.gitkeep
+
+# OS & Editor Junk
+.DS_Store
+Thumbs.db
+__MACOSX/
+._*
+.vscode/
+.idea/
+*.swp
+
+# Build / Temporary Outputs
+dist/
+build/
+*.log
+tmp/
+temp/
