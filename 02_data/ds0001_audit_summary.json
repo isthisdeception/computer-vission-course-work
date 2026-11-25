@@ -1,0 +1,44 @@
+{
+  "dataset_id": "DS0001",
+  "dataset_name": "ArtiFact Face Subset (50k)",
+  "kaggle_slug": "isthisdeception/ds0001-artifact-face-subset",
+  "license": "MIT",
+  "built_utc": "2026-11-25T17:49:53.995272+00:00",
+  "total_scanned": 50000,
+  "readable_count": 50000,
+  "corrupt_count": 0,
+  "corrupt_rate": 0.0,
+  "class_counts": {
+    "fake": 25000,
+    "real": 25000
+  },
+  "generator_counts": {
+    "none": 25000,
+    "stylegan2": 1924,
+    "gansformer": 1923,
+    "lama": 1923,
+    "cips": 1923,
+    "face_synthetics": 1923,
+    "projected_gan": 1923,
+    "mat": 1923,
+    "sfhq": 1923,
+    "stable_diffusion": 1923,
+    "stylegan1": 1923,
+    "stargan": 1923,
+    "stylegan3": 1923,
+    "taming_transformer": 1923
+  },
+  "num_fake_generators": 13,
+  "width_min": 200,
+  "width_max": 200,
+  "height_min": 200,
+  "height_max": 200,
+  "format_histogram": {
+    "JPEG": 50000
+  },
+  "mode_histogram": {
+    "RGB": 50000
+  },
+  "duplicate_md5_groups": 0,
+  "duplicate_md5_extra_files": 0
+}

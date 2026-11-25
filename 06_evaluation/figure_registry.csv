@@ -1,1 +1,2 @@
 fig_id,filename,step_id,report_section,caption,source_script
+FIG00,06_evaluation/figures/eda/ds0001_annotation_examples.png,STEP-003,Section 6,DS0001 (ArtiFact Face Subset) verified annotated sample preview (4 Real vs. 4 AI generators),04_notebooks/01_ds0001_audit_and_index.ipynb

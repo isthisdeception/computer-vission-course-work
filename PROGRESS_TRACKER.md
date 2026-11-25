@@ -10,7 +10,7 @@ Update each row immediately after completing a step's Verification Checklist and
 |---|---|---|---|---|---|---|
 | `STEP-001` | M1 (Due 18 Nov — Catch-up) | Team Charter, Industry Problem & Scope Lock | M1 Md Assaduzzaman + All | Nov 25–26 | `DONE` | `01_management/team_charter.md` (2026-11-25) |
 | `STEP-002` | M1 (Due 18 Nov — Catch-up) | Repository Skeleton, Registries & Environment Setup | M5 Ishrat Jahan + All | Nov 25–26 | `DONE` | Repo skeleton, registries, `requirements.txt`, `src/seed.py` (2026-11-25) |
-| `STEP-003` | M2 (Due 22 Nov — Catch-up) | Kaggle `DS0001` Verification, License & Master Index CSV | M1 Md Assaduzzaman | Nov 26 | `IN_PROGRESS` | License, dataset card & Kaggle audit notebook pushed; awaiting Kaggle run for `ds0001_index.csv` |
+| `STEP-003` | M2 (Due 22 Nov — Catch-up) | Kaggle `DS0001` Verification, License & Master Index CSV | M1 Md Assaduzzaman | Nov 26 | `DONE` | `ds0001_index.csv` (50k, 0 corrupt) pushed from Kaggle (2026-11-25) |
 | `STEP-004` | M3 (Due **Fri, 27 Nov**) | Visual EDA: Distributions, Image Stats & Sample Grids | M2 Khadijatul Kobra Keya | Nov 26–27 | `PENDING` | — |
 | `STEP-005` | M3 (Due **Fri, 27 Nov**) | Leak-Free Stratified Train/Val/Test Split (70/15/15) | M1 + M2 | Nov 27 | `PENDING` | — |
 | `STEP-006` | M3 (Due **Fri, 27 Nov**) | Preprocessing & Training-Only Augmentation Pipeline | M2 Khadijatul Kobra Keya | Nov 27 | `PENDING` | — |
